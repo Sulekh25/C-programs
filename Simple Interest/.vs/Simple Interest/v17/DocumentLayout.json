@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Simple Interest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05C11C0-F1AB-48E5-994F-EE01F75A4515}|Simple Interest\\Simple Interest.vcxproj|E:\\C\u002B\u002B\\Simple Interest\\Simple Interest\\Simple Interest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F05C11C0-F1AB-48E5-994F-EE01F75A4515}|Simple Interest\\Simple Interest.vcxproj|solutionrelative:Simple Interest\\Simple Interest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Simple Interest.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Simple Interest\\Simple Interest\\Simple Interest.cpp",
+              "RelativeDocumentMoniker": "Simple Interest\\Simple Interest.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Simple Interest\\Simple Interest\\Simple Interest.cpp",
+              "RelativeToolTip": "Simple Interest\\Simple Interest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:51:12.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

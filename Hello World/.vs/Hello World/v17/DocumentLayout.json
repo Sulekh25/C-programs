@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Hello World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EED1BAD-DCC1-4E32-BDD7-5FB6292474B9}|Hello World\\Hello World.vcxproj|E:\\C\u002B\u002B\\Hello World\\Hello World\\Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EED1BAD-DCC1-4E32-BDD7-5FB6292474B9}|Hello World\\Hello World.vcxproj|solutionrelative:Hello World\\Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hello World.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Hello World\\Hello World\\Hello World.cpp",
+              "RelativeDocumentMoniker": "Hello World\\Hello World.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Hello World\\Hello World\\Hello World.cpp",
+              "RelativeToolTip": "Hello World\\Hello World.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:33:11.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

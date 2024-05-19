@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Program 17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49662E46-5043-4533-88BE-084ED5E06238}|Program 17\\Program 17.vcxproj|E:\\C\u002B\u002B\\Program 17\\Program 17\\Program 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49662E46-5043-4533-88BE-084ED5E06238}|Program 17\\Program 17.vcxproj|solutionrelative:Program 17\\Program 17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program 17.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Program 17\\Program 17\\Program 17.cpp",
+              "RelativeDocumentMoniker": "Program 17\\Program 17.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Program 17\\Program 17\\Program 17.cpp",
+              "RelativeToolTip": "Program 17\\Program 17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T11:20:55.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Biggest Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C32C437-82E3-4CE9-BB2F-9BE7DE599540}|Biggest Number\\Biggest Number.vcxproj|E:\\C\u002B\u002B\\Biggest Number\\Biggest Number\\Biggest Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C32C437-82E3-4CE9-BB2F-9BE7DE599540}|Biggest Number\\Biggest Number.vcxproj|solutionrelative:Biggest Number\\Biggest Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biggest Number.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Biggest Number\\Biggest Number\\Biggest Number.cpp",
+              "RelativeDocumentMoniker": "Biggest Number\\Biggest Number.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Biggest Number\\Biggest Number\\Biggest Number.cpp",
+              "RelativeToolTip": "Biggest Number\\Biggest Number.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:47:25.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

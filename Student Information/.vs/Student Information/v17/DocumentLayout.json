@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B\\Student Information\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{475485FA-F606-4360-A753-BB79A4C55F9C}|Student Information\\Student Information.vcxproj|E:\\C\u002B\u002B\\Student Information\\Student Information\\Student Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{475485FA-F606-4360-A753-BB79A4C55F9C}|Student Information\\Student Information.vcxproj|solutionrelative:Student Information\\Student Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student Information.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B\\Student Information\\Student Information\\Student Information.cpp",
+              "RelativeDocumentMoniker": "Student Information\\Student Information.cpp",
+              "ToolTip": "E:\\C\u002B\u002B\\Student Information\\Student Information\\Student Information.cpp",
+              "RelativeToolTip": "Student Information\\Student Information.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T10:53:04.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
